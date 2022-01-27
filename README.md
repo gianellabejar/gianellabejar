@@ -15,7 +15,7 @@ favourites = { "Sports": ["Cross country", "Weightlifting"],
 ## My Current To Do List
 - [x] Create your Github profile
 - [x] Make your own website (Hint: Check it out [here](https://gianellabejar-af4ae.web.app)
-- [x] Found a feminist organization!
+- [x] Begin a feminist organization
 - [x] Work at a medical clinic
 - [ ] Complete Google's Data Analytics course (Due to finish: March 2022!)
 - [ ] Complete grade 12 Computer Science
