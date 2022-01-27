@@ -1,0 +1,16 @@
+### Gianella Bejar
+- 👋 Hi, I’m @gianellabejar
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+## What I'm focusing on...
+Linkedin Badge
+- [x] #739
+- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Add delight to the experience when all tasks are complete :tada:
+<!---
+gianellabejar/gianellabejar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
