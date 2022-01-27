@@ -16,6 +16,7 @@ favourites = { "Sports": ["Cross country", "Weightlifting"],
 - [x] Create your Github profile
 - [x] Make your own website (Hint: Check it out [here](https://gianellabejar-af4ae.web.app)
 - [x] Found a feminist organization!
+- [x] Work at a medical clinic
 - [ ] Complete Google's Data Analytics course (Due to finish: March 2022!)
 - [ ] Complete grade 12 Computer Science
 - [ ] Do the Waterloo Computing Contest 2022
