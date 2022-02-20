@@ -1,6 +1,8 @@
 # Gianella Bejar 
 _fan of problem solving and all social justice_
 
+NOTE: PAGE IS A WORK IN PROGRESS. Please check again soon for new updates and projects.
+
 Get to know me **quick** in Python!
 ```
 interests = [reading, math, puzzles, leading teams, mental health] # And coding of course!
