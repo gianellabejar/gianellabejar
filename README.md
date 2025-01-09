@@ -1,4 +1,4 @@
-# 🌟 Welcome! I’m **Gianella Bejar**  
+# Welcome! I’m **Gianella Bejar**  
 
 A second year UofT computer engineering student, an aspiring changemaker, and someone striving to leave a positive mark on the world—one project, one idea, and one community at a time.
 
