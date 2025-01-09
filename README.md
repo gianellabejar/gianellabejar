@@ -1,28 +1,30 @@
-# Gianella Bejar 
-_fan of problem solving and all social justice_
+# 🌟 Welcome! I’m **Gianella Bejar**  
 
-NOTE: PAGE IS A WORK IN PROGRESS. Please check again soon for new updates and projects.
+A second year UofT computer engineering student, an aspiring changemaker, and someone striving to leave a positive mark on the world—one project, one idea, and one community at a time.
 
-Get to know me **quick** in Python!
-```
-interests = [reading, math, puzzles, leading teams, mental health] # And coding of course!
-bornIn = "Peru"
-bornOn = "May 27, 2005"
-inHighschool, extendedFrenchProgram = True, True 
-favourites = { "Sports": ["Cross country", "Weightlifting"],
-               "Book": "Grit by Angela Duckworth"],
-               "School Subjects": ["Math", "Computer Science",
-               "Colour": "Green"]
-```
-## My Current To Do List
-- [x] Create your Github profile
-- [x] Make your own website (Hint: Check it out [here](https://gianellabejar-af4ae.web.app)
-- [x] Begin a feminist organization
-- [x] Work at a medical clinic
-- [x] Do the Waterloo Computing Contest 2022
-- [ ] Complete Google's Data Analytics course (Due to finish: March 2022!)
-- [ ] Complete grade 12 Computer Science
-- [ ] Apply to the University of Waterloo's QCSYS summer enrichment program
+---
 
-## Contact me!
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gianella-bejar-3841bb220/)](https://www.linkedin.com/in/gianella-bejar-3841bb220/)  [![Instagram Badge](https://img.shields.io/badge/-Instagram-3EB489?style=flat&labelColor=3EB489&logo=Instagram&logoColor=white&link=https://www.instagram.com/gianella.bejar/)](https://www.instagram.com/gianella.bejar/) [![Website](https://img.shields.io/website?color=green&down_color=green&down_message=offline&logoColor=green&up_color=green&up_message=online&url=https%3A%2F%2Fgianellabejar-af4ae.web.app)](https://gianellabejar-af4ae.web.app)
+## 🎓 **About Me**
+I’m not just a student; I’m a:
+- **Builder:** Whether it’s crafting solutions for connected systems, creating intuitive tools for others, or tackling exciting tech challenges, I’m here to make things better.
+- **Leader:** As a class representative, I empower my peers with clarity and resources, championing a collaborative and supportive environment.
+- **Explorer:** Passionate about AI, IoT, and innovative tech, I believe in the power of engineering to shape a better future.
+
+---
+
+## 🎯 **My Mission**
+At the heart of everything I do is a simple goal: **to make things better for others.**  
+Whether it’s helping classmates navigate the semester, designing solutions that simplify processes, or working on IoT systems to improve sustainability, I want to leave the world a little better than I found it.
+
+---
+
+## 🤝 **Let’s Connect**
+I’d love to collaborate or hear about your ideas:  
+- **📧 Email:** [g.bejaralvarez@mail.utoronto.ca]  
+- **🐙 GitHub Projects:** You’re already here!  
+- **🌐 Personal Site:** Coming soon (keep an eye out 👀).  
+
+---
+
+### **Made with ❤️ by Gianella Bejar**  
+*"Because engineering isn’t just a career—it’s a way to shape the future, together."*
